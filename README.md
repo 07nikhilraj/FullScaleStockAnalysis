@@ -15,6 +15,7 @@ We have analyzed the behavior of stocks and predict its future, considering how 
   * Exponential Moving Average
 * ### Correlation Matrix: 
   ![1](https://user-images.githubusercontent.com/86933754/176680149-b1f567a1-2933-49a9-88b2-7e5a21908f01.png)
+  Shows measure of correlation between different stocks.
 
 
 * ### Monte Carlo Algorithm
