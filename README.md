@@ -5,7 +5,7 @@ Github takes too long to render the notebooks with large size. To view .ipynb fi
 👉🏼👉🏼👉🏼
 **[Click here](https://nbviewer.org/github/07nikhilraj/FullScaleStockAnalysis/blob/master/project.ipynb)** 👈🏼👈🏼👈🏼
 
-We are using a financial dataset from yahoo finance. The Dataset consists of attributes like: Date, Open, High, Low, Close, Volume, OpenInt.
+We are using the financial dataset from 'yfinance' library by yahoo finance. The Dataset consists of attributes like: Date, Open, High, Low, Close, Volume, OpenInt.
 
 We have analyzed the behavior of stocks and predict its future, considering how it performed in the last couple of years and what factors affected it. 
 
