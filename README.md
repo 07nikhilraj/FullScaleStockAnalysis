@@ -1,6 +1,10 @@
 # FullScaleStockAnalysis
 Using Data Mining methods and ML models to predict future behavior of stocks.
 
+Github takes too long to render the notebooks with large size. To view .ipynb file
+👉🏼👉🏼👉🏼
+**[Click here](https://nbviewer.org/github/07nikhilraj/FullScaleStockAnalysis/blob/master/project.ipynb)** 👈🏼👈🏼👈🏼
+
 We are using a financial dataset from yahoo finance. The Dataset consists of attributes like: Date, Open, High, Low, Close, Volume, OpenInt.
 
 We have analyzed the behavior of stocks and predict its future, considering how it performed in the last couple of years and what factors affected it. 
